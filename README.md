@@ -1,0 +1,2 @@
+# ocrbar
+Simple OCR
